@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**JaackLima/JaackLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BOAS VINDA AO MEU PERFIL 🍒
+Meu nome é Jackcely Lima 
 
-Here are some ideas to get you started:
+- Estou estudando Alura
+- Estou desenvolvendo na linguagem JAVASCRIPT
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📫
+  limaribeirojackcely@gmail.com
+
+
+  ![](https://media.tenor.com/qTBX_2xpf9AAAAAM/claire-dancing.gif)
